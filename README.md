@@ -7,7 +7,7 @@
 
 It was part of the original Logo programming language developed by Wally Feurzig and Seymour Papert in 1966.
 
-# About Character-o-graph.py
+# About Character-o-graph
 
 This Program lets you enter a string input(eg: your name or any string), then program separates each character from the name and calls turtle function written for every character.
 
